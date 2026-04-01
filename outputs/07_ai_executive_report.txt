@@ -1,0 +1,113 @@
+
+============================================================
+  OLIST E-COMMERCE — AI-ASSISTED EXECUTIVE INSIGHT REPORT
+  Generated: 2026-04-01 10:04
+  Analyst  : Sabarivenkatesh Kathirvel | Portfolio Project
+============================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 1. EXECUTIVE SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Olist's e-commerce platform processed 96,477 orders between
+2016 and 2018, generating a total revenue of R$15,422,461.77
+with an average order value of R$153.07. The business
+demonstrated strong year-over-year growth, peaking in 2017-11
+with R$1,153,528.05 in monthly revenue. With a 91.89%
+on-time delivery rate and a customer satisfaction score of
+4.09/5, the platform shows operational maturity, though
+targeted improvements in logistics and customer retention can
+unlock the next phase of growth.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 2. KEY PERFORMANCE HIGHLIGHTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ► Total Revenue        : R$15,422,461.77 across 96,477 orders
+  ► Peak Month           : 2017-11 with R$1,153,528.05 revenue
+  ► Top Category         : health_beauty at R$1,258,681.34 total revenue
+  ► On-Time Delivery     : 91.89% — 88,651 orders delivered on time
+  ► Customer Satisfaction: 4.09/5 avg score — 57,328 five-star reviews
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 3. CRITICAL BUSINESS INSIGHTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  INSIGHT 1 — Customer Ordering Behaviour
+  Customers place the highest volume of orders on Mondays
+  at 16:00 hrs. This pattern suggests that marketing
+  campaigns, flash sales, and promotional notifications scheduled
+  for Monday afternoons would yield the highest conversion
+  rates and return on ad spend.
+
+  INSIGHT 2 — Payment Method Dominance
+  73.92% of all transactions use credit_card as the payment
+  method. This strong preference indicates that any disruption to
+  credit_card processing would critically impact revenue. The business
+  should negotiate preferential transaction rates with credit_card
+  providers and invest in backup payment gateway infrastructure.
+
+  INSIGHT 3 — Category Revenue Concentration
+  The top 5 product categories — health_beauty, watches_gifts, bed_bath_table, sports_leisure, computers_accessories
+  — contribute disproportionately to total revenue. This concentration
+  represents both strength and risk. A targeted inventory and
+  marketing strategy for these categories can accelerate growth,
+  while diversification into adjacent categories can reduce
+  dependency risk.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 4. RISK AREAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RISK 1 — Late Delivery Volume
+  7,826 orders (8.1%) were delivered late,
+  with an average delivery time of 12.1 days across all orders.
+  Late deliveries are the single strongest predictor of 1-star
+  reviews. The 11,424 one-star reviews recorded represent a
+  direct reputational and retention risk that compounds over time
+  if logistics performance is not improved.
+
+  RISK 2 — Customer Satisfaction Polarisation
+  While 57.8% of customers give 5-star ratings, 11.5% give 1-star
+  ratings — with very few ratings in the 2-3 star range. This
+  bimodal distribution indicates that customer experience is
+  highly inconsistent. Customers either love the service or are
+  deeply dissatisfied, with no middle ground. This pattern is
+  typical of logistics-driven failures rather than product quality
+  issues, suggesting that delivery experience is the primary
+  driver of dissatisfaction.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 5. STRATEGIC RECOMMENDATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RECOMMENDATION 1 — Launch Monday Afternoon Marketing Campaigns
+  Schedule all email marketing, push notifications, and promotional
+  offers to go live on Monday between 14:00 and 16:00.
+  Based on historical ordering patterns, this window represents
+  the highest customer intent period and will maximise campaign
+  ROI without additional spend.
+
+  RECOMMENDATION 2 — Implement Delivery SLA Monitoring Dashboard
+  Create a real-time delivery performance tracker that flags orders
+  at risk of being late before they breach the SLA. Proactive
+  customer communication for at-risk orders has been shown to
+  reduce 1-star reviews by up to 30% even when delivery is late,
+  as customers respond positively to transparency.
+
+  RECOMMENDATION 3 — Double Down on Top 3 Revenue Categories
+  Allocate 60% of seller acquisition budget to recruiting new
+  sellers in health_beauty,
+  watches_gifts, and
+  bed_bath_table. These three categories
+  already have proven demand and customer trust. Increasing
+  seller supply in these categories will improve price
+  competitiveness and grow revenue without requiring new
+  customer acquisition.
+
+============================================================
+  Data source : Olist Brazil E-Commerce Dataset (2016-2018)
+  Records     : 96,477 orders analysed
+  Tool        : Python + SQLite + Pandas
+  Dashboard   : Microsoft Power BI (3-page interactive report)
+============================================================
